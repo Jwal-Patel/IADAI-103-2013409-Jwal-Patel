@@ -6,8 +6,8 @@ A user‑centred AI‑assisted prototype that reconnects urban youth with nature
 **“From Empathy to Execution: Designing User‑Centered AI Digital Solutions Prototype”**.  
 
 - **Scenario:** 1 – Digital GreenWall (GreenBloom Tech Pvt. Ltd.)  
-- **Student:** <Your Jwal Patel>  
-- **School:** <Your Udgam School For Children>
+- **Student:** Jwal Patel  
+- **School:** Udgam School For Children
 - **Working Prototype Link:** <https://poodle-folder-98306157.figma.site>  
 
 ---
