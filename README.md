@@ -8,7 +8,7 @@ A user‑centred AI‑assisted prototype that reconnects urban youth with nature
 - **Scenario:** 1 – Digital GreenWall (GreenBloom Tech Pvt. Ltd.)  
 - **Student:** <Your Jwal Patel>  
 - **School:** <Your Udgam School For Children>
-- **Working Prototype Link:** <Your(https://poodle-folder-98306157.figma.site)>  
+- **Working Prototype Link:** <https://poodle-folder-98306157.figma.site>  
 
 ---
 
